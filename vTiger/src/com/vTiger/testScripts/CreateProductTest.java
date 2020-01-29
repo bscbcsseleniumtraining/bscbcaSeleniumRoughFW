@@ -30,6 +30,6 @@ public class CreateProductTest extends Base
 		String imagePath = "D:\\ALL SELENIUM\\WorkSpace\\ELF-3-BSC-BCA\\vTiger\\" + flib.getExcelData("Products", 1, 5);
 		cnp.createProduct(productName, manufacturer, productCategory, imagePath, driver);
 		
-		
+		System.out.println("Bye");
 	}
 }
