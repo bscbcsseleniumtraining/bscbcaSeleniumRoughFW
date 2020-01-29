@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15855" started-at="2020-01-29T11:23:05Z" finished-at="2020-01-29T11:23:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15855" started-at="2020-01-29T11:23:05Z" finished-at="2020-01-29T11:23:21Z">
+      <class name="com.vTiger.testScripts.CreateProductTest">
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.vTiger.testScripts.CreateProductTest@6767c1fc]" name="configBC" is-config="true" duration-ms="4848" started-at="2020-01-29T16:53:05Z" finished-at="2020-01-29T16:53:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.vTiger.testScripts.CreateProductTest@6767c1fc]" name="configBM" is-config="true" duration-ms="1956" started-at="2020-01-29T16:53:10Z" finished-at="2020-01-29T16:53:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="createProductTest()[pri:0, instance:com.vTiger.testScripts.CreateProductTest@6767c1fc]" name="createProductTest" duration-ms="8146" started-at="2020-01-29T16:53:12Z" finished-at="2020-01-29T16:53:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProductTest -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.vTiger.testScripts.CreateProductTest@6767c1fc]" name="configAC" is-config="true" duration-ms="880" started-at="2020-01-29T16:53:20Z" finished-at="2020-01-29T16:53:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method status="PASS" signature="configAM()[pri:0, instance:com.vTiger.testScripts.CreateProductTest@6767c1fc]" name="configAM" is-config="true" duration-ms="0" started-at="2020-01-29T16:53:20Z" finished-at="2020-01-29T16:53:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+      </class> <!-- com.vTiger.testScripts.CreateProductTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
